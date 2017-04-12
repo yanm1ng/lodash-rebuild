@@ -10,4 +10,5 @@ function _drop(array, num = 1) {
   return res;
 }
 
-console.log(_drop([1 ,2 , 3, 4], 5));
+console.log(_drop([1 ,2 , 3, 4], 1));
+// [2, 3, 4]
